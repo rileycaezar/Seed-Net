@@ -1,10 +1,1 @@
-Seed Net starting point
-version 1.0
-
-OpenWRT : ImageBuilder scripts for making OpenWRT images with security
-	configuration packaged inside.
-
-iPhone : Offline keying application based upon printed QR code keys.
-
-RNG : Plans to make a strong random number generator in a grocery store.
-
+Moved to <https://github.com/h0tb0x/h0tb0x> !
